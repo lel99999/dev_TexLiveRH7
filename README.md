@@ -11,4 +11,6 @@ Add yum packages to address LaTeX error File 'framed.sty' not found.<br/>
 `$cd ./install-tl-20200415`<br/>
 `$./install-tl -gui text`<br/>
 
+
+
 *Change schema to schema-basic instead of schema-full*<br/>
